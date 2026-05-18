@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Exemplo fazendo um merge
-"""
 
 # Importações
 import datetime
